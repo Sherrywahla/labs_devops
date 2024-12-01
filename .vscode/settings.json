@@ -1,0 +1,15 @@
+{
+  "DockerRun.DisableDockerrc": true,
+  "DockerRun.Containers": [
+    "28c5192ea2c6"
+  ],
+  "cSpell.words": [
+    "gunicorn",
+    "gurnicorn",
+    "makemigrations",
+    "PYTHONDONTWRITEBYTECODE",
+    "PYTHONUNBUFFERED",
+    "runserver",
+    "wsgi"
+  ]
+}
