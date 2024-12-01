@@ -1,1 +1,1 @@
-Sherry tests for devopts
+Sherry tests for devops tests
